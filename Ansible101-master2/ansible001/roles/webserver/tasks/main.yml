@@ -1,0 +1,33 @@
+---
+- name: install de apache2
+  apt: install apache2 
+
+- name: php 5
+  apt: install apache2-php5
+
+- name: php5-pspell
+  apt: install php5-pspell
+
+- name: 
+  apt: install php5-curl
+
+- name: 
+  apt: install php5-gd
+
+- name: 
+  apt: install php5-intl
+
+- name: 
+  apt: install php5-mysql
+
+- name: 
+  apt: install php5-xmlrpc
+  
+- name: 
+  apt: install php5-ldap
+
+- name: git 
+  apt: install git-core 
+
+- 
+ 
